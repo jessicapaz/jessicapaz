@@ -3,6 +3,6 @@
 #### $ whoami
 - 😊 She/her.
 - 📚 Book lover.
-- 🌱 Crazy plant lady.
+- 🌱 Plant lady.
 - 🥰 Python | Go | Software Architecture.
-- 💚 Software Developer at [@stone-payments](https://github.com/stone-payments).
+- 💚 Senior Software Development Consultant at [@thoughtworks](https://github.com/thoughtworks).
