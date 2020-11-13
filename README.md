@@ -5,4 +5,4 @@
 - 📚 Book lover.
 - 🌱 Plant lady.
 - 🥰 Python | Go | Software Architecture.
-- 💚 Senior Software Development Consultant at [@thoughtworks](https://github.com/thoughtworks).
+- 💜 Senior Software Development Consultant at [@thoughtworks](https://github.com/thoughtworks).
