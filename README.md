@@ -4,5 +4,6 @@
 - 😊 She/her.
 - 📚 Book lover.
 - 🌱 Plant lady.
-- 🥰 Python | Go | Software Architecture.
+- 😺 Cat mom. 
+- 🥰 Python | Go | Software Architecture | Cloud Infrastructure.
 - 💜 Senior Software Development Consultant at [@thoughtworks](https://github.com/thoughtworks).
