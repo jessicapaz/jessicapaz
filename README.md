@@ -6,4 +6,4 @@
 - 🌱 Plant lady.
 - 😺 Cat mom. 
 - 🥰 Python | Go | Software Architecture | Cloud Infrastructure.
-- 💜 Senior Software Development Consultant at [@thoughtworks](https://github.com/thoughtworks).
+- 💜 Senior Software Engineer at [@unbabel](https://github.com/unbabel).
