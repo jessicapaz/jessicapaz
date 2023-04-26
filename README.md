@@ -6,4 +6,4 @@
 - 🌱 Plant lady.
 - 😺 Cat mom. 
 - 🥰 Python | Go | Software Architecture | Cloud Infrastructure.
-- 💜 Senior Software Engineer at [@unbabel](https://github.com/unbabel).
+- 💜 Platform Engineer at [@fresco](https://github.com/dropkitchen).
